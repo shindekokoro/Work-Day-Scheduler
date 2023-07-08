@@ -48,6 +48,10 @@ textarea {
 
 .past {
   background-color: #d3d3d3;
+}
+
+.past textarea {
+  text-decoration: line-through;
   color: white;
 }
 
