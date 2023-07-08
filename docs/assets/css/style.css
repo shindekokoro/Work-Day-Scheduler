@@ -11,6 +11,14 @@ header {
   font-weight: bold;
 }
 
+#userInput {
+  display: flex;
+  margin: 0px 36px 0px 36px;
+  padding-bottom: 10px;
+  border-bottom: 5px solid #000000;
+
+}
+
 textarea {
   background: transparent;
   border: none;
