@@ -1,5 +1,3 @@
-# module05-Work-Day-Scheduler
-
 ## Description
 A simple calendar application that allows a user to save events for a workday. Default configuration for a typical workday of 9AM-5PM, allows for user to set working hours for the day, and reset scheduler for a new day.
 
